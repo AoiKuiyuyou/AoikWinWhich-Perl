@@ -1,0 +1,6 @@
+/.*
+!/.gitignore
+/EclipseProject
+/nbproject
+/build
+/dist
